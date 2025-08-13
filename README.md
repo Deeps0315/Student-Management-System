@@ -13,3 +13,10 @@ It allows administrators to manage student records with features like **CRUD ope
 - **Delete Student** – Remove a student from the database.
 - **Search & Filter** – Find students by roll number, department, or name.
 - **Database Integration** – Powered by MySQL using JDBC.
+
+## Screenshot of Output
+<img width="1354" height="702" alt="image" src="https://github.com/user-attachments/assets/7a6b0a81-cda7-4da0-8cbc-95945f4bf022" />
+
+<img width="1193" height="555" alt="image" src="https://github.com/user-attachments/assets/e73c5681-f587-4ae8-a7b0-d6e58935494d" />
+
+<img width="1324" height="718" alt="image" src="https://github.com/user-attachments/assets/9d30db15-c5b1-45a1-a959-21b3c6681249" />
